@@ -1,0 +1,29 @@
+<template>
+    <div class="indexpublic">
+
+        <router-view></router-view>
+
+    </div>
+</template>
+
+<script>
+export default {
+    name: 'indexpublic',
+    data () {
+        return {
+            
+        }
+    },
+    mounted(){
+
+    },
+    methods:{
+        
+    }
+}
+</script>
+
+<!-- Add "scoped" attribute to limit CSS to this component only -->
+<style scoped>
+
+</style>
